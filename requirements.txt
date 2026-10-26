@@ -1,0 +1,7 @@
+torch
+transformers>=5.17
+safetensors
+httpx
+fastapi
+uvicorn
+flash-linear-attention

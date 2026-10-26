@@ -1,0 +1,7 @@
+d3-multi
+Copyright 2026 akta.pro
+
+This product includes software from d3-mini (Decision 3.0),
+Copyright 2026 vLLM Semantic Router Team, licensed under the Apache License 2.0.
+d3multi/d3_format.py is copied from vllm-sr/d3-mini, revision 97dd054, with one line added to its docstring.
+d3-mini is built on Qwen/Qwen3.5-4B (Apache License 2.0).

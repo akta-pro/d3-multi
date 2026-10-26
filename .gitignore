@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+runs/
+work/
+data_out/
+*.safetensors
+.scratch/
+results/
